@@ -608,7 +608,7 @@ def train(dataset="shakespeare_char", out_dir="run_0", seed_offset=0):
     # === SAMPLING SCRIPT ===
 
     # New parameters for generation
-    start = " "
+    start = "opttimization transport logistics with xgboost k-means and GA "
     num_samples = 10  # number of samples to draw
     max_new_tokens = 500  # number of tokens generated in each sample
     temperature = (
